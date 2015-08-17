@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TesteAssinador</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!--string name="gcm_defaultSenderId">660450636937</string-->
+</resources>
